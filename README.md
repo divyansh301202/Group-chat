@@ -1,9 +1,9 @@
-# lets-talk
+# Group-chat
 Want to talk to your friends in a programmer's way on the terminal of your PC.</br>
-_Welcome to **Lets Talk**_ </br>
+_Welcome to **Group-chat**_ </br>
 
 ## Project Description
-Lets Talk is a multi-threaded chat server. It is written in c++ and uses the pthreads library for implementing the multithreading.
+Group-chat is a multi-threaded chat server. It is written in c++ and uses the pthreads library for implementing the multithreading.
 It uses socket programming for connecting server and client, both of which are written in c++. It is a terminal based 
 application which helps in communtication between various clients which join the server.</br>
 The idea behind this project is to implement parallel processing of data using threads.
